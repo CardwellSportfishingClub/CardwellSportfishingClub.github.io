@@ -1,9 +1,9 @@
 $(document).ready(function () {
-    $("#menu").load("http://www.cardwellsportfishingclub.com/nav.html");
+    $("#menu").load("nav.html");
 });
 
 $(document).ready(function () {
-    $("#footer").load("http://www.cardwellsportfishingclub.com/footer.html");
+    $("#footer").load("footer.html");
 });
 
 //relative? file:///C:/Users/Leeds/Downloads/html5up-spectral/assets/json/calendar.json
