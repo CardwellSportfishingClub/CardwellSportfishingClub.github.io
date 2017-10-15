@@ -2437,6 +2437,14 @@
 				background-color: rgba(0, 0, 0, 0.385);
 			}
 
+			.features li:nth-child(11) {
+				background-color: rgba(0, 0, 0, 0.415);
+			}
+
+			.features li:nth-child(11) {
+				background-color: rgba(0, 0, 0, 0.450);
+			}
+
 			.features li:before {
 				display: block;
 				color: #00ffcc;
