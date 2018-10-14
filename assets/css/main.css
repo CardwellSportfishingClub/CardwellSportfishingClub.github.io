@@ -2420,6 +2420,12 @@ div.sponsorcontainer {
 			width: 50%;
 		}
 
+		.features li img {
+			max-height: 300px;
+			width:auto;
+			max-width:100%;
+		}
+
 		.features .spanTwo {
 			width: 100%
 		}
