@@ -2418,6 +2418,10 @@ div.sponsorcontainer {
 			position: relative;
 			text-align: left;
 			width: 50%;
+			text-align: center;
+		}
+		.features li a {
+			margin: 0 auto;
 		}
 
 		.features li img {
