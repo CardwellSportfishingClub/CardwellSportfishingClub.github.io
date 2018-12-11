@@ -3664,6 +3664,15 @@ div.sponsorcontainer {
 
 		}
 
+		@media screen and (max-width: 500px) {
+
+			#cta {
+				padding-left: 1px;
+				padding-right: 1px;
+			}
+
+		}
+
 /* Main */
 
 	#main > header {

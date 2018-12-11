@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Cardwell Sport Fishing Club</title>
+    <link>https://www.cardwellsportfishingclub.com/</link>
+    <description>Recent content in Home on Cardwell Sport Fishing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.cardwellsportfishingclub.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Barra Bonanza</title>
+      <link>https://www.cardwellsportfishingclub.com/events/barra-bonanza/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cardwellsportfishingclub.com/events/barra-bonanza/</guid>
+      <description>A competition that appeals to anglers from Cairns to the coal mines. The Barra Bonanza was launched by the Cardwell Sportfishing Club (CSC) in 2007 to help attract visitors to Cardwell. Initially planned to coincide with the opening of the Barra season in February, torrential rains, flooded roads and the threat of cyclones played havoc with the first three events.
+In 2011, just 24 hours before the start of the competition Cyclone Yasi blew in taking with it the contents of the CSC clubhouse, and the $20,000 prize pool.</description>
+    </item>
+    
+    <item>
+      <title>2019 Monthly Fishing Comps</title>
+      <link>https://www.cardwellsportfishingclub.com/events/2019-monthly-fishing-comps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cardwellsportfishingclub.com/events/2019-monthly-fishing-comps/</guid>
+      <description>2019 Fishing competition each month collective prizes up to $200.00
+February 1 – 3: Barramundi 700cm challenge
+March 1 – 3: Five Species estuary
+Apr 5 – 7: Mono 3kg challenge biggest fish
+May 4-6: NQ Championship
+June 7 – 9: Ten Species challenge
+July: Club trip going away to be advised
+August 9 – 11: Coral trout 600cm challenge
+September 6 – 8: Pelagic challenge biggest fish
+October Barra Bonanza</description>
+    </item>
+    
+  </channel>
+</rss>
