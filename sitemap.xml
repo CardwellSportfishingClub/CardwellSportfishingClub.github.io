@@ -3,21 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.cardwellsportfishingclub.com/events/2019-monthly-fishing-comps/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.cardwellsportfishingclub.com/categories/</loc>
-    <priority>0</priority>
+    <loc>https://www.cardwellsportfishingclub.com/events/barra-bonanza/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.cardwellsportfishingclub.com/events/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.cardwellsportfishingclub.com/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cardwellsportfishingclub.com/events/2019-monthly-fishing-comps/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cardwellsportfishingclub.com/accommodation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cardwellsportfishingclub.com/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
